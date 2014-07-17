@@ -1,0 +1,30 @@
+@import 'bootstrap';
+
+nav.navbar {
+	background: #674172;
+border-bottom: #DB0A5B 1px solid;
+}
+#logo {
+	color: #eeeeee;
+	-webkit-font-smoothing: antialiased;
+	text-shadow: 1px 1px #DB0A5B;
+	font-family: "Monofett", cursive;
+	font-size: 2em;
+	letter-spacing: 3px;
+}
+
+body {
+background: #EEEEEE;
+}
+
+#tag {
+background: #db0a5b;
+}
+
+ul.nav.navbar-nav.navbar-right {
+margin-right: 100px;
+}
+
+ul.nav.navbar-nav.navbar-right a {
+	color:white;
+}
